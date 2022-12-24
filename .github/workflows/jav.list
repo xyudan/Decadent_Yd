@@ -1,7 +1,9 @@
 # >  Jav
 
 user-agent,javbus,jable
+
 host-suffix,javbus.com,javbus
-host-suffix,jable.tv,jable
 DOMAIN-SUFFIX,javbus.com
+
+host-suffix,jable.tv,jable
 DOMAIN-SUFFIX,jable.tv
