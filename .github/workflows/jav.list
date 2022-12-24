@@ -3,4 +3,5 @@
 user-agent,javbus,jable
 host-suffix,javbus.com,javbus
 host-suffix,jable.tv,jable
-DOMAIN-SUFFIX,javbus,jable,jav
+DOMAIN-SUFFIX,javbus
+DOMAIN-SUFFIX,jable
